@@ -22,6 +22,7 @@ namespace UnityGameFramework.Editor
             "UnityGameFramework.Runtime",
 #endif
             "Assembly-CSharp",
+            "Procedure",
         };
 
         private static readonly string[] RuntimeOrEditorAssemblyNames =
